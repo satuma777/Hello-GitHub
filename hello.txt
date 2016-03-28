@@ -1,2 +1,3 @@
 Hello, GitHub!
 test of branch.
+test of branch 2.
